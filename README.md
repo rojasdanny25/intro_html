@@ -1,2 +1,2 @@
 # intro_html
-taller 1repositorio
+taller 1 repositorio
